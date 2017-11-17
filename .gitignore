@@ -166,7 +166,6 @@ fabric.properties
 pyvenv.cfg
 pip-selfcheck.json
 
-.gitignore
 .idea/inspectionProfiles/
 .idea/misc.xml
 .idea/modules.xml
